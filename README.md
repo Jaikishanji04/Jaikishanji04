@@ -1,33 +1,21 @@
-# Hi there, I'm Jai Kishan! 👋
+<!-- ANIMATED RETRO GAMING HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=PLAYER+1+CONNECTED%3A+JAI+KISHAN+JI;CLASS%3A+FULL-STACK+%26+AI+ENGINEER;READY+TO+DEPLOY+SCALABLE+SYSTEMS..." alt="Typing SVG" />
+</div>
 
-Fresh Data Science graduate and aspiring software professional with a strong foundation in computer science, programming, and algorithmic problem-solving. Passionate about building intelligent systems, data-driven solutions, and exploring cloud technologies.
-
----
-
-### 🚀 About Me
-- 🌱 Currently expanding my expertise in **Data Science, Machine Learning, and Cloud Computing**.
-- 💡 Passionate about solving complex coding problems and optimizing software performance.
-- 🎓 Graduate from ABES Engineering College.
-
----
-
-### 💻 Tech Stack & Skills
-- **Languages:** Python, Java, C/C++
-- **Core Subjects:** Data Structures & Algorithms, Operating Systems, Object-Oriented Programming, Database Management Systems
-- **Data Science & Tools:** Machine Learning, SQL, Git, GitHub, VS Code
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jaikishanji04&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://leetcode.com/u/JAIKISHAN_04/"><img src="https://img.shields.io/badge/LEETCODE-JAIKISHAN__04-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/jaikishanji"><img src="https://img.shields.io/badge/CODECHEF-jaikishanji-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/jaikishanji9794"><img src="https://img.shields.io/badge/HACKERRANK-jaikishanji9794-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+</p>
 
 ---
 
-### 📊 Coding Profiles & Stats
-- **LeetCode:** [JAIKISHAN_04](https://leetcode.com/u/JAIKISHAN_04/)
-- **CodeChef:** [jaikishanji](https://www.codechef.com/users/jaikishanji)
-- **HackerRank:** [jaikishanji9794](https://www.hackerrank.com/profile/jaikishanji9794)
+### 🕹️ CHARACTER SHEET (`STATUS: ONLINE`)
 
----
-
-### 📫 Connect with Me
-- **LinkedIn:** [Jai Kishan](https://www.linkedin.com/in/jai-kishan-ji/)
-- **GitHub:** [Jaikishanji04](https://github.com/Jaikishanji04/Jaikishanji04)
-
----
-*⭐ Feel free to check out my repositories and reach out for collaborations!*
+```yaml
+Player Name   : Jai Kishan Ji
+Origin Guild  : ABES Engineering College (CSE - Data Science)
+Current Quest : Building Production-Grade AI, RAG & Full-Stack Systems
+Base Location : India 🇮🇳
